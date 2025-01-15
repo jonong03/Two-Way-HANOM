@@ -7,3 +7,5 @@
 /Report
 /Data
 .TwoWayHANOM.Rproj
+*.pdf
+*.Rmd
